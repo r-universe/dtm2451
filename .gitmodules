@@ -8,3 +8,8 @@
 	url = https://github.com/dtm2451/dittoseq
 	shallow = true
 	registered = true
+[submodule "magmaR"]
+	path = magmaR
+	url = https://github.com/cran/magmaR
+	shallow = true
+	registered = true
