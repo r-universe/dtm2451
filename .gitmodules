@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dittoSeq"]
 	path = dittoSeq
 	url = https://github.com/dtm2451/dittoseq
-	shallow = true
-	registered = true
 [submodule "magmaR"]
 	path = magmaR
 	url = https://github.com/cran/magmaR
-	shallow = true
-	registered = true
