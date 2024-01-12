@@ -5,6 +5,9 @@
 [submodule "dittoSeq"]
 	path = dittoSeq
 	url = https://github.com/dtm2451/dittoseq
+[submodule "dittoViz"]
+	path = dittoViz
+	url = https://github.com/dtm2451/dittoviz
 [submodule "magmaR"]
 	path = magmaR
 	url = https://github.com/cran/magmaR
